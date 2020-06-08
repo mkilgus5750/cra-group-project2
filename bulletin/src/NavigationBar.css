@@ -1,0 +1,7 @@
+.Nav {
+    list-style-type: none;
+}
+
+.Nav NavItem:hover{
+    text-decoration: underline;
+}

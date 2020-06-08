@@ -1,0 +1,8 @@
+.Author {
+    color: black;
+    font-weight: 200px;
+}
+.bulletin-group-container {
+    display: grid;
+    grid-template-columns: repeat(2, 600px);
+}
